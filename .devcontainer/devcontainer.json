@@ -1,0 +1,5 @@
+{ "workspaceFolder": "",
+   "service": "",
+   "name": "docker tcintegracion",
+   "dockerComposeFile": "docker-compose.yml",
+}
